@@ -1,27 +1,35 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!;+I'm+Sant!+👋" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=7bd544&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Sant;welcome)](https://git.io/typing-svg)
 
-<h2 align="center">Cursando</h2>  
-  
-<div  align="center">
-⭐  IFSC / Campus São José :<br/>
-   2º período de Análise e Desenvolvimento de Sistemas <br>
-   Programação em Python <br> <br>
- ⭐ Harvad X :<br/>
-   Introduction to Computer Science <br> <br>
-  ⭐ ITA - Plataforma coursera :<br/>
-   Orientação a Objetos com Java <br/><br>
-</div>                                
-
-<h3 align="center"> Linguagens de programação e Ferramentas </h3>  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,c,java" /><br>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sx-nt&theme=shadow-green&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
+
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sx-nt?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green) 
+
+</div>
+
+
+  <source
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx-nt&layout=compact"
+  />
+
+  
+##
+
+<h3 align="center"> Programing languages and tools </h3>  
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,java" /><br>
 </div>
 <br/>
 
-<h2 align="center">Informações de contato</h2>  
+<h2 align="center">Contact info</h2>  
 <div align="center"> 
   <a href= "mailto:ssemeghini.santana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
