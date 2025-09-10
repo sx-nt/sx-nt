@@ -21,11 +21,11 @@
   
 ##
 
-<h3 align="center"> Programing languages and tools </h3>  
+<h3 align="center"> Programming languages and tools </h3>  
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,react,mysql,docker,github,git,vscode,idea" />
+  <br>
 </div>
 <br/>
 
